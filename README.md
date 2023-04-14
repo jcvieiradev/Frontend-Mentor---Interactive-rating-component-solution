@@ -1,3 +1,5 @@
+Aula do TypeDev: https://www.youtube.com/watch?v=BHU8sIOSXgg
+
 # Frontend Mentor - Interactive rating component
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
