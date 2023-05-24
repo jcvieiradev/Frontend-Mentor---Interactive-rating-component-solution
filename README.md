@@ -1,5 +1,7 @@
 Aula do TypeDev: https://www.youtube.com/watch?v=BHU8sIOSXgg
 
+Link da página: https://jcvieiradev.github.io/Frontend-Mentor---Interactive-rating-component-solution/
+
 # Frontend Mentor - Interactive rating component
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
